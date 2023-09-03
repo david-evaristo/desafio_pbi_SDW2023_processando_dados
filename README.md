@@ -9,8 +9,5 @@ versão Mysql: 8.0 <br>
 
 # Criar banco de dados
 Para criação do banco de dados utilizamos dois arquivos, um de criação das tabelas e um com a insersão dos dados.<br>
-Arquivo criaçao banco:<br>
-script_bd_company.sql<br>
-
-# Arquivo inserção de dados:
-insercao_de_dados_e_queries_sql.sql
+Arquivo criaçao banco: script_bd_company.sql <br>
+Arquivo inserção de dados: insercao_de_dados_e_queries_sql.sql
