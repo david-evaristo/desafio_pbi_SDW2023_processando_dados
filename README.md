@@ -1,9 +1,9 @@
 # desafio_pbi_SDW2023_processando_dados
 
 # Descrição
-Nesse projeto criamos um banco de dados Mysql no Azure
-link de criação: https://azure.microsoft.com/pt-br/
-nome servidor: desafio-projeto-dio-sdw2023.mysql.database.azure.com
+Nesse projeto criamos um banco de dados Mysql no Azure. 
+link de criação: https://azure.microsoft.com/pt-br/. 
+nome servidor: desafio-projeto-dio-sdw2023.mysql.database.azure.com. 
 nome banco de dados: azure_company
 versão Mysql: 8.0
 
